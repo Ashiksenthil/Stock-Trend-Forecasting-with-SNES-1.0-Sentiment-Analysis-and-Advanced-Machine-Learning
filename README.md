@@ -99,7 +99,7 @@ Financial data often have more downward than upward price movements. To prevent 
 
 - **SMOTE (Synthetic Minority Oversampling Technique)**:  
   Generates synthetic samples for the minority class (upward trends) by interpolating between nearby examples, balancing the dataset for better model performance.
-![Before Smote](https://github.com/user-attachments/assets/70d0df8a-55bd-43cd-9055-a109d25cba6e)![image](https://github.com/user-attachments/assets/ce476e16-c222-4826-a6b0-5316f5cb9707)
+  
 ---
 
 ## **Model Training**
