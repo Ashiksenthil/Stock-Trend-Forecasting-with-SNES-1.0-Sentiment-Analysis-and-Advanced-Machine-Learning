@@ -48,11 +48,13 @@ Financial markets are influenced by numerous factors, including investor sentime
   - **Technical Indicators**: Moving averages, RSI.
   - **Lagged Sentiment Features**: Sentiment scores from previous days.
 
-![Dataset Overview](path/to/dataset-image.png)
+
 
 ---
 
 ## **System Architecture**
+
+![Project Architecture]![image](https://github.com/user-attachments/assets/177ca0dc-2693-4859-8934-67bb10c6293f)
 
 This project follows a structured pipeline for stock trend forecasting:
 
@@ -79,7 +81,7 @@ This project follows a structured pipeline for stock trend forecasting:
 6. **Feature Importance Analysis**:
    - Determine the most influential factors in stock price movement predictions.
 
-![System Workflow](path/to/system-workflow-image.png)
+
 
 ---
 
