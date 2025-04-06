@@ -1,4 +1,4 @@
-# **Stock Trend Forecasting Using Sentiment Analysis and Advanced Machine Learning**
+# **Stock Trend Forecasting Using Sentiment Analysis and Advanced Machine Learning.**
 
 This project aims to forecast short-term stock price movements using **financial data and sentiment analysis** derived from news articles. By leveraging the **SNES 1.0 dataset**, we combine traditional market indicators with news sentiment scores, employing **state-of-the-art machine learning models** for improved stock trend prediction. This work addresses challenges in financial forecasting by applying advanced feature engineering and robust evaluation methods.
 
